@@ -48,7 +48,7 @@
     "props": {
       "title": "Logo",
       "href": "/",
-      "url": "https://brand.vtex.com/static/media/VTEX_pink_RGB.751a9fb5.svg",
+      "url": "https://cdn.statically.io/gh/devlobao84/dicas-docs-vtex/main/brand_for_header.svg",
       "width": "80"
     }
   },
