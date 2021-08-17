@@ -1,7 +1,7 @@
 {
   "vendor": "hiringcoders2021",
-  "name": "joiceramos",
-  "version": "0.1.0",
+  "name": "trainingweek-joiceramos",
+  "version": "1.1.0",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
